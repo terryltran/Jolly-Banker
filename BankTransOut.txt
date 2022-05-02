@@ -1,0 +1,126 @@
+Error: Insufficient Funds. Cannot withdraw $20000 from Johnny Cash's Growth Index Fund
+Full History of Transactions for Johnny Cash | Account #1001
+History of Transactions for Money Market
+Money Market: $470
+ D 10010 542
+ W 10010 72
+
+History of Transactions for Prime Money Market
+Prime Money Market: $3042
+ D 10011 1542
+ D 10011 1500
+
+History of Transactions for Long-Term Bond
+Long-Term Bond: $10442
+ D 10012 5442
+ D 10012 5000
+
+History of Transactions for Short-Term Bond
+Short-Term Bond: $14540
+ D 10013 7540
+ D 10013 7000
+
+History of Transactions for Capital Value Fund
+Capital Value Fund: $54
+ T 10017 54 10015
+
+History of Transactions for Growth Equity Fund
+Growth Equity Fund: $15053
+ D 10016 7542
+ D 10016 7576
+ W 10016 65
+
+History of Transactions for Growth Index Fund
+Growth Index Fund: $10931
+ D 10017 5442
+ D 10017 6543
+ W 10017 1000
+ T 10017 54 10015
+ W 10017 20000 (FAILED)
+
+History of Transactions for Hank Williams's 500 Index Fund
+500 Index Fund: $10000
+ D 12534 10000
+
+Full History of Transactions for Hank Williams | Account #1253
+History of Transactions for Money Market
+Money Market: $10000
+ D 12530 10000
+
+History of Transactions for Prime Money Market
+Prime Money Market: $10000
+ D 12531 10000
+
+History of Transactions for Long-Term Bond
+Long-Term Bond: $0
+ D 12532 10000
+ W 12532 10000
+
+History of Transactions for Short-Term Bond
+Short-Term Bond: $5000
+ D 12533 10000
+ W 12533 5000
+
+History of Transactions for 500 Index Fund
+500 Index Fund: $10000
+ D 12534 10000
+
+History of Transactions for Capital Value Fund
+Capital Value Fund: $10000
+ D 12535 10000
+
+History of Transactions for Growth Equity Fund
+Growth Equity Fund: $10000
+ D 12536 10000
+
+History of Transactions for Growth Index Fund
+Growth Index Fund: $10000
+ D 12537 10000
+
+History of Transactions for Value Fund
+Value Fund: $10000
+ D 12538 10000
+
+History of Transactions for Value Stock Index
+Value Stock Index: $10000
+ D 12539 10000
+
+Error: Transfer failed. Account ID #4356 does not exist.
+Error: Account failed to be opened. There already exists an account with ID: 9876
+
+Processing Has Been Finished. Printing final balances...
+Johnny Cash | Account #1001
+Money Market: $470
+Prime Money Market: $3042
+Long-Term Bond: $10442
+Short-Term Bond: $14540
+500 Index Fund: $0
+Capital Value Fund: $54
+Growth Equity Fund: $15053
+Growth Index Fund: $10931
+Value Fund: $0
+Value Stock Index: $0
+
+Hank Williams | Account #1253
+Money Market: $10000
+Prime Money Market: $10000
+Long-Term Bond: $0
+Short-Term Bond: $5000
+500 Index Fund: $10000
+Capital Value Fund: $10000
+Growth Equity Fund: $10000
+Growth Index Fund: $10000
+Value Fund: $10000
+Value Stock Index: $10000
+
+Willie Nelson | Account #9876
+Money Market: $0
+Prime Money Market: $0
+Long-Term Bond: $0
+Short-Term Bond: $0
+500 Index Fund: $0
+Capital Value Fund: $0
+Growth Equity Fund: $0
+Growth Index Fund: $0
+Value Fund: $0
+Value Stock Index: $0
